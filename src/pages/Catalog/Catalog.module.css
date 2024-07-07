@@ -1,0 +1,11 @@
+.catalogPage {
+  display: flex;
+  height: 100vh;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+}
